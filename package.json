@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "name": "teste",
+  "version": "1.0.0",
+  "main": "dadosEstudante.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
